@@ -24,7 +24,7 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white ">Lorem ipsum dolor,</span> sit amet consectetur adipisicing elit. Natus, amet officia. Repellat ullam, debitis nisi iusto, nemo eum ipsum maxime temporibus officia saepe, est autem rem ea molestiae ipsa labore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, quod enim beatae, sit eveniet voluptatem omnis quibusdam excepturi, aliquam perferendis labore? Doloremque impedit soluta aliquid cum? Ex debitis ab reiciendis.
+        <span className="font-extrabold text-white">Metaverse</span> is a new thing in the future, where you can enjoy the virtual world by feeling like it's really real, you can feel what you feel in this metaverse world, because this is really the <span className="font-extrabold text-white">madness of the metaverse</span> of today, using only <span className="font-extrabold text-white">VR</span> devices you can easily explore the metaverse world you want, turn your dreams into reality. Let's <span className="font-extrabold text-white">explore</span> the madness of the metaverse by scrolling down
       </motion.p>
       <motion.img
         variants={fadeIn('up', 'tween', 0.3, 1)}
